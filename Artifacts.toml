@@ -6,7 +6,7 @@ libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "e7e258bd3e7d1c9e621a9ba9b5a22d60d04eb6b09caa8c1576bb3eceb89ac0a0"
+    sha256 = "36f0abd5327490ec3afc68fa2066c2f77210323646af809bb56c2ee9425a45d6"
     url = "https://github.com/arhik/jlqml_jll.jl/releases/download/aarch64-jlqml/jlqml_jl.tar.gz"
 
 [[jlqml]]
