@@ -1,4 +1,15 @@
 [[jlqml]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c48e294924a6185ac60070507b58552f6c6c06d9"
+libc = "glibc"
+os = "linux"
+
+    [[jlqml.download]]
+    sha256 = "e7e258bd3e7d1c9e621a9ba9b5a22d60d04eb6b09caa8c1576bb3eceb89ac0a0"
+    url = "https://github.com/arhik/jlqml_jll.jl/releases/download/aarch64-jlqml/jlqml_jl.tar.gz"
+
+[[jlqml]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "7836cab0e83ba572466f7541afdcb7faa464c7b6"
