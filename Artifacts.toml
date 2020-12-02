@@ -1,12 +1,12 @@
 [[jlqml]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9b27b1c617483a9c4e35251a20fdd3b00596086e"
 libc = "glibc"
 os = "linux"
+git-tree-sha1 = "8de7c6251e0f8a322a09ef2ab59027fb3afd2788"
 
     [[jlqml.download]]
-    sha256 = "36f0abd5327490ec3afc68fa2066c2f77210323646af809bb56c2ee9425a45d6"
+    sha256 = "cace6ddab2c9d8c0252f413c445b0b3d9a711c8a4822fa37af4f17faf09aa808"
     url = "https://github.com/arhik/jlqml_jll.jl/releases/download/aarch64-jlqml/jlqml_jl.tar.gz"
 
 [[jlqml]]
@@ -47,3 +47,4 @@ os = "windows"
     [[jlqml.download]]
     sha256 = "ee49359d86d9150cec43db216aaadd07bbcdba34c285e8056d23ae609270dde4"
     url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.4+0/jlqml.v0.1.4.x86_64-w64-mingw32-cxx11.tar.gz"
+
