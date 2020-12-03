@@ -6,8 +6,8 @@ os = "linux"
 git-tree-sha1 = "8de7c6251e0f8a322a09ef2ab59027fb3afd2788"
 
     [[jlqml.download]]
-    sha256 = "cace6ddab2c9d8c0252f413c445b0b3d9a711c8a4822fa37af4f17faf09aa808"
-    url = "https://github.com/arhik/jlqml_jll.jl/releases/download/aarch64-jlqml/jlqml_jl.tar.gz"
+    sha256 = "36453351074f62aa846b8daa08fa352c1b5afe2039b78ae4299e14a5254b6b16"
+    url = "https://github.com/arhik/jlqml_jll.jl/releases/download/aarch64-jlqml/jlqml.tar.gz"
 
 [[jlqml]]
 arch = "armv7l"
